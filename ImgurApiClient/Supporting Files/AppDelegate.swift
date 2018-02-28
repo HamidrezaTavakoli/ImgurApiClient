@@ -12,8 +12,8 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-    static var clientId = "b6cdf55f3c1b6da"
-    static var clientSecret = "8f03918d3006d02e5c16029d72ba97be8f2a0ebe"
+    static var clientId = " "
+    static var clientSecret = " "
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
